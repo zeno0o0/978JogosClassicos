@@ -1,0 +1,28 @@
+.icomargem{
+    padding: 25px;
+}
+.icomargem:hover{
+    padding: 15px;
+}
+.imagem {
+    position: relative;
+    border-radius: 20px;
+}
+body {
+    background-image: url("icones/fundo.jpg");
+}
+.botao {
+    background-color: transparent;
+    border: none;
+ }
+.header {
+    text-align: center;
+    background-color: rgb(142, 30, 217) ;
+    padding:20px;
+    font-size:50px;
+    color: white;
+}
+.logo {
+    weight: 50px;
+    width: 50px;
+}
